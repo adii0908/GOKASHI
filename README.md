@@ -1,5 +1,5 @@
-
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,7 +93,7 @@
 <body>
 
 <header>
-<img src="A_logo_for_"Gokashi"_features_a_stylized_lotus_flo.png" alt="Gokashi Logo">
+    <img src="A_logo_for_“Gokashi”_features_a_stylized_lotus_flo.png" alt="Gokashi Logo">
     <nav>
         <a href="#about">About</a>
         <a href="#destinations">Destinations</a>
@@ -124,19 +124,19 @@
 
 <div class="destination">
         <h3>Varanasi</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Varanasi_Ghat.jpg" alt="Varanasi">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Varanasi_Ghat.jpg" alt="Varanasi">
         <p>The spiritual heart of India, famous for its ghats and Ganga Aarti. Full-day private tours start from ₹6,000.</p>
     </div>
 
- <div class="destination">
+<div class="destination">
         <h3>Sarnath</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
-        <p>The place of Buddha's first sermon, serene and rich with history. Half-day tours from ₹2,900.</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Dhamekh_Stupa.jpg" alt="Sarnath">
+        <p>The place of Buddha’s first sermon, serene and rich with history. Half-day tours from ₹2,900.</p>
     </div>
 
 <div class="destination">
         <h3>Ayodhya</h3>
- <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Ram_Janmabhoomi_Mandir_Ayodhya.jpg" alt="Ayodhya">
         <p>The birthplace of Lord Rama with sacred ghats and temples. Packages start from ₹25,690 for multi-day tours.</p>
     </div>
 
